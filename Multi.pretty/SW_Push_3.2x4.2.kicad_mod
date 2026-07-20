@@ -1,0 +1,236 @@
+(footprint "SW_Push_3.2x4.2"
+	(version 20260206)
+	(generator "pcbnew")
+	(generator_version "10.0")
+	(layer "F.Cu")
+	(descr "CK components KMR2 tactile switch http://www.ckswitches.com/media/1479/kmr2.pdf")
+	(tags "tactile switch kmr2")
+	(property "Reference" "REF**"
+		(at 0 -2.45 0)
+		(layer "F.SilkS")
+		(uuid "0504ca26-a4b3-4495-9923-476957b5d0ad")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Value" "SW_Push_3.2x4.2"
+		(at 0 2.55 0)
+		(layer "F.Fab")
+		(uuid "66a3fc09-bf9b-4525-94fb-4b853eff3188")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Datasheet" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "438720c0-af4b-453f-8c09-fc6fc54bf510")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(property "Description" ""
+		(at 0 0 0)
+		(unlocked yes)
+		(layer "F.Fab")
+		(hide yes)
+		(uuid "928e1fe0-1fd7-4659-9efc-5dc77ba301c2")
+		(effects
+			(font
+				(size 1.27 1.27)
+				(thickness 0.15)
+			)
+		)
+	)
+	(attr smd)
+	(duplicate_pad_numbers_are_jumpers no)
+	(fp_line
+		(start -2.2 0.05)
+		(end -2.2 -0.05)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "37884807-e7d3-4d96-a176-b17b3ec1bc56")
+	)
+	(fp_line
+		(start -2.2 1.8)
+		(end 2.2 1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "d1fcad02-0a86-46cb-86a8-699d0c16b097")
+	)
+	(fp_line
+		(start 2.2 -1.8)
+		(end -2.2 -1.8)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "19450782-b11e-4fb5-a266-a7552f7ad50e")
+	)
+	(fp_line
+		(start 2.2 0.05)
+		(end 2.2 -0.05)
+		(stroke
+			(width 0.12)
+			(type solid)
+		)
+		(layer "F.SilkS")
+		(uuid "804ab2e7-244c-45af-b9a9-7417c2a50bc4")
+	)
+	(fp_line
+		(start -2.8 -1.9)
+		(end 2.8 -1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "b793e110-fc01-4f7e-9b4f-9040e4cc26c0")
+	)
+	(fp_line
+		(start -2.8 1.9)
+		(end -2.8 -1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "a5e08009-a6b8-4c64-b7f5-79cba91952b0")
+	)
+	(fp_line
+		(start 2.8 -1.9)
+		(end 2.8 1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "2b70728b-80d1-423b-a467-fe58a60d3d7f")
+	)
+	(fp_line
+		(start 2.8 1.9)
+		(end -2.8 1.9)
+		(stroke
+			(width 0.05)
+			(type solid)
+		)
+		(layer "F.CrtYd")
+		(uuid "cb54706a-ec17-4c83-a7de-2793b939f6f9")
+	)
+	(fp_line
+		(start -2.1 -1.7)
+		(end 2.1 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "07f02fce-bf3a-4337-ac5d-6889a8862c3e")
+	)
+	(fp_line
+		(start -2.1 1.7)
+		(end -2.1 -1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "b6775378-6f66-44c1-a622-d6fc2262c91f")
+	)
+	(fp_line
+		(start 2.1 -1.7)
+		(end 2.1 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "f1fe0e30-a8f0-493b-acde-f37422fb5e0b")
+	)
+	(fp_line
+		(start 2.1 1.7)
+		(end -2.1 1.7)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(layer "F.Fab")
+		(uuid "512f4751-32b8-4160-99b7-87e0471ba96d")
+	)
+	(fp_circle
+		(center 0 0)
+		(end 0 0.8)
+		(stroke
+			(width 0.1)
+			(type solid)
+		)
+		(fill no)
+		(layer "F.Fab")
+		(uuid "f412a165-6154-43b2-a9e7-5fe5364a96f9")
+	)
+	(fp_text user "${REFERENCE}"
+		(at 0 -2.45 0)
+		(layer "F.Fab")
+		(uuid "8023c6f9-c51a-4975-a0e0-07f3606cdaea")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.15)
+			)
+		)
+	)
+	(pad "1" smd rect
+		(at -2.2 -1.1)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "e98683b1-8015-4cef-8ee3-b3f90f166cd5")
+	)
+	(pad "1" smd rect
+		(at 2.3 -1.1)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "5c6d6ca3-d8bf-4a41-9d99-f070cda8a0f0")
+	)
+	(pad "2" smd rect
+		(at -2.2 1.1)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "16034dec-5a4a-4bcd-ab93-02c317d0f5f6")
+	)
+	(pad "2" smd rect
+		(at 2.3 1.1)
+		(size 0.9 1)
+		(layers "F.Cu" "F.Mask" "F.Paste")
+		(uuid "4b2542e8-7e66-410b-af6d-608546e9a125")
+	)
+	(embedded_fonts no)
+	(model "${KICAD10_3DMODEL_DIR}/Button_Switch_SMD.3dshapes/SW_Push_1P1T_NO_CK_KMR2.step"
+		(offset
+			(xyz 0 0 0)
+		)
+		(scale
+			(xyz 1 1 1)
+		)
+		(rotate
+			(xyz 0 0 0)
+		)
+	)
+)
