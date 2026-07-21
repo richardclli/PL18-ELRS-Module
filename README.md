@@ -20,6 +20,7 @@ The Flysky PL18 ships with the FRM301 external TX module. This project replaces 
 <img src="docs/module_assembled_top.jpg" width="400" alt="Assembled module — top view" />
 <img src="docs/module_assembled_bottom.jpg" width="400" alt="Assembled module — bottom view" />
 <img src="docs/module_installed.jpg" width="400" alt="Module installed in PL18 module bay" />
+<img src="docs/module_in_casing.jpg" width="400" alt="Module fitted in FRM301 casing" />
 
 ## Bill of Materials
 
