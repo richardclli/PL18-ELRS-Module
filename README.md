@@ -1,3 +1,5 @@
+[English](README.md) | [中文](README_CN.md)
+
 # Flysky PL18 ExpressLRS TX Module
 
 A DIY internal ExpressLRS transmitter module for the Flysky Paladin PL18 radio, repurposing the stock FRM301 module's casing and RF module.
