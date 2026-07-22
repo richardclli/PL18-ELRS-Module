@@ -43,7 +43,7 @@ The Flysky PL18 ships with the FRM301 external TX module. This project replaces 
 
 | Pin | Signal | ESP32-S3 GPIO | Description |
 |:---:|:------:|:-------------:|-------------|
-| 1 | SPORT | IO04 | FrSky Smart Port (bidirectional telemetry) |
+| 1 | SPORT | IO04 | S.Port (bidirectional CRSF protocol) |
 | 2 | GND | — | Ground |
 | 3 | +5V | — | 5V power input from radio |
 | 4 | NC | — | Not connected |
